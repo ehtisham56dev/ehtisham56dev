@@ -51,38 +51,22 @@
 
 ### 📊 GitHub Stats
 
-![Ehtisham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Ehtisham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehtisham56dev&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ehtisham56dev&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ehtisham56dev&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ehtisham56dev)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://fiverr.com/ehtisham56dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6B4EFF?style=flat&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_SITE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ehtisham.wpdev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:webcoder327@gmail.com)
 
 ---
 
 <p align="center">
   <i>"Security is not a product, but a process."</i>
 </p>
-
-<!--
-**ehtisham56dev/ehtisham56dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
