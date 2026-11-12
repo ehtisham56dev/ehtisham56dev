@@ -2,14 +2,14 @@
 
 # Hi, I'm Muhammad Ehtisham
 
-### `Cybersecurity student. WordPress security-focused. Builder in progress.`
+### `Cybersecurity student. VAPT learner with hands-on experience. WordPress security part-time.`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=700&color=00BFA5&center=true&vCenter=true&width=700&lines=Learning+cybersecurity+by+building;WordPress+security+%7C+Malware+removal;Practical+projects+%7C+Authorized+testing" alt="Animated introduction" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=700&color=00BFA5&center=true&vCenter=true&width=700&lines=Learning+VAPT+through+coursework+and+labs;Building+hands-on+VAPT+experience;WordPress+security+work+part-time" alt="Animated introduction" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ehtisham56dev&label=PROFILE+VIEWS&style=for-the-badge&color=00bfa5" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Ehtisham56dev?label=FOLLOWERS&style=for-the-badge&color=8b5cf6" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/FOCUS-Cybersecurity-0ea5e9?style=for-the-badge&logo=owasp&logoColor=white" alt="Cybersecurity focus" />
+  <img src="https://img.shields.io/badge/FOCUS-VAPT-0ea5e9?style=for-the-badge&logo=owasp&logoColor=white" alt="Vulnerability assessment and penetration testing focus" />
 </p>
 
 </div>
@@ -20,11 +20,11 @@
 
 <div align="center">
 
-**Cybersecurity student at UET Taxila, building practical projects and learning by doing.**
+**Cybersecurity student at UET Taxila focused on VAPT. I’m continuing to learn while building hands-on experience through coursework, labs, and authorized practice. WordPress security and malware removal are part-time work for me.**
 
 <img src="https://img.shields.io/badge/BASED_IN-Mianwali%2C%20Pakistan-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Mianwali, Pakistan" />
-<img src="https://img.shields.io/badge/FOCUS-WordPress%20Security-8b5cf6?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress security focus" />
-<img src="https://img.shields.io/badge/MINDSET-Learn%20%2F%20Build%20%2F%20Repeat-10b981?style=for-the-badge&logo=github&logoColor=white" alt="Learn, build, repeat" />
+<img src="https://img.shields.io/badge/PRIMARY_FOCUS-VAPT-8b5cf6?style=for-the-badge&logo=owasp&logoColor=white" alt="Primary focus: VAPT" />
+<img src="https://img.shields.io/badge/PART--TIME-WordPress%20Security-10b981?style=for-the-badge&logo=wordpress&logoColor=white" alt="Part-time WordPress security work" />
 <img src="https://img.shields.io/badge/FREELANCE-Fiverr%20%E2%98%85%205.0-f59e0b?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr 5.0 rating, as listed on my profile" />
 
 </div>
@@ -33,40 +33,34 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/UET_TAXILA-BS_CYBERSECURITY-8b5cf6?style=for-the-badge&logo=google-scholar&logoColor=white" alt="BS Cybersecurity at UET Taxila" />
-  <img src="https://img.shields.io/badge/WORDPRESS-SECURITY%20%26%20HARDENING-0ea5e9?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress security and hardening" />
+  <img src="https://img.shields.io/badge/VAPT-LEARNING%20%2B%20HANDS--ON%20EXPERIENCE-0ea5e9?style=for-the-badge&logo=owasp&logoColor=white" alt="Learning VAPT with hands-on experience" />
   <img src="https://img.shields.io/badge/PYTHON-PRACTICAL%20PROJECTS-10b981?style=for-the-badge&logo=python&logoColor=white" alt="Python project work" />
   <img src="https://img.shields.io/badge/FIVERR-17%2B%20ORDERS-f59e0b?style=for-the-badge&logo=fiverr&logoColor=white" alt="17 or more completed Fiverr orders, as listed on my profile" />
 </p>
 
-### Hands-on toolkit
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" alt="WordPress" width="46" height="46" />&nbsp;
-  <img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" width="46" height="46" />&nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="46" height="46" />&nbsp;
-  <img src="https://cdn.simpleicons.org/elementor/92003B" alt="Elementor" width="46" height="46" />&nbsp;
-  <img src="https://img.shields.io/badge/WPScan-FF0000?style=flat&logo=wordpress&logoColor=white" alt="WPScan" />&nbsp;
-  <img src="https://img.shields.io/badge/Sucuri-000000?style=flat&logo=sucuri&logoColor=white" alt="Sucuri" />&nbsp;
-  <img src="https://img.shields.io/badge/Wordfence-003087?style=flat&logo=wordpress&logoColor=white" alt="Wordfence" />&nbsp;
-  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="46" height="46" />&nbsp;
-  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="46" height="46" />&nbsp;
-  <img src="https://cdn.simpleicons.org/c/00599C" alt="C" width="46" height="46" />
-</p>
-
 > I use security tools for learning and authorized testing.
 
-### Topics I'm exploring
+### VAPT: learning and practice
 
-**Network security, WordPress hardening, and phishing awareness** are areas I’m developing through coursework, labs, and practical projects. The projects below are learning and awareness tools, not proficiency rankings.
+**Vulnerability Assessment and Penetration Testing (VAPT)** is my primary focus. I’m developing my skills while building practical experience through coursework, labs, and authorized testing. The projects below are learning and awareness tools, not proficiency rankings.
+
+## Part-time WordPress work
+
+Alongside my main VAPT focus, I take on WordPress security hardening and malware-removal work part-time.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
+  <img src="https://img.shields.io/badge/WPScan-FF0000?style=for-the-badge&logo=wordpress&logoColor=white" alt="WPScan" />
+  <img src="https://img.shields.io/badge/Sucuri-000000?style=for-the-badge&logo=sucuri&logoColor=white" alt="Sucuri" />
+  <img src="https://img.shields.io/badge/Wordfence-003087?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordfence" />
+</p>
 
 ## Stack in motion
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/WPScan-FF0000?style=for-the-badge&logo=wordpress&logoColor=white" alt="WPScan" />
-  <img src="https://img.shields.io/badge/Wordfence-003087?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordfence" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
